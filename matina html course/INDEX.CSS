@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 80px;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    padding-left: 3%;
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    font-size: larger;
+    padding-right: 3%;
+    color: black;
+    font-weight: bold;
+}
+.button{
+    padding-right: 5%;
+}
+.button button{
+height: 40px;
+width: 90px;
+font-size: large;
+font-weight: bold;
+
+}
+.div{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10%;
+}
+.nature{
+    width: 350px;
+    border: 1px solid black;
+}
+.nature img{
+    height: 200px;
+    width: 350px;
+}
+.nature p{
+    width:350px;
+}
+.lake{
+    width: 350px;
+    border: 1px solid black;
+
+}
+.lake img{
+    height: 200px;
+    width:350px;
+}
+.lake p{
+    width:350px;
+}
